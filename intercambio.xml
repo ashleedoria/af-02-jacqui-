@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<intercambio_fime>
+    <universidad>
+        <nombre>Instituto Politécnico Nacional (IPN)</nombre>
+        <tipo>Nacional</tipo>
+        <ubicacion>Av. Luis Enrique Erro s/n, Zacatenco, Alcaldía Gustavo A. Madero, Ciudad de México</ubicacion>
+        <como_cursar_ias>En ESCOM o UPIICSA, cursando materias equivalentes a bases de datos, redes y programación web aprobadas previamente por la coordinación de IAS en FIME</como_cursar_ias>
+        <duracion>1 semestre académico</duracion>
+        <requisitos_clave>Promedio mínimo de 80, haber aprobado al menos el 50% de créditos de IAS, kárdex oficial y carta de postulación de FIME</requisitos_clave>
+    </universidad>
+
+    <universidad>
+        <nombre>Universidad de Sevilla</nombre>
+        <tipo>Internacional</tipo>
+        <ubicacion>Av. Reina Mercedes s/n, Campus Reina Mercedes, Sevilla, España</ubicacion>
+        <como_cursar_ias>En la Escuela Técnica Superior de Ingeniería Informática (ETSII), seleccionando asignaturas del Grado en Ingeniería Informática compatibles con el plan de estudios de IAS</como_cursar_ias>
+        <duracion>1 semestre académico</duracion>
+        <requisitos_clave>Promedio mínimo de 85, 50% de créditos de IAS aprobados, pasaporte vigente, seguro médico internacional y acuerdo de revalidación de materias</requisitos_clave>
+    </universidad>
+</intercambio_fime>
